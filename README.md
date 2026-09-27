@@ -1,5 +1,9 @@
 # Hi, I'm Ahmed Hesham 👋
 
+<p align="center">
+  <img src="assets/profile.png" alt="Ahmed Hesham" width="190" />
+</p>
+
 Computer Engineering student at Egypt University of Informatics, interested in full-stack development, data structures, networking, and cybersecurity.
 
 I learn by building practical projects that combine clean interfaces with solid technical foundations.
